@@ -3,7 +3,6 @@ const Kitsu = require('kitsu.js');
 const kitsu = new Kitsu();
 var aq = require('animequote');
 const fetch = require("node-fetch");
-const { execute } = require('./lick');
 
 module.exports =  {
   name: "anime",
